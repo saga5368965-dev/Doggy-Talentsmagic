@@ -1,0 +1,14 @@
+{
+  "talent.doggy_talents_magic.spell_casting": "魔導の極意",
+  "talent.doggy_talents_magic.spell_casting.description": "犬に魔導書を装備させ（魔法書は犬に向かって右クリックで装備）、戦闘中に魔法を放たせることができます。\nLv.2: 周囲の負傷した味方を優先し、バフや回復を飛ばします。\nLv.3: 敵との距離が7ブロック以内になると、引き撃ち（後退）を行います。\nレベルが上がるほど、魔法の連射性能が大幅に向上します。",
+
+  "talent.doggy_talents_magic.mana_aura": "マナの源泉",
+  "talent.doggy_talents_magic.mana_aura.description": "犬の周囲にマナを紡ぐオーラを展開し、飼い主や味方のマナを常時回復させます。\nレベルが上がるほど回復量と影響範囲が拡大します。",
+
+  "talent.doggy_talents_magic.wizard_charmer": "愛嬌のおねだり",
+  "talent.doggy_talents_magic.wizard_charmer.description": "犬の愛くるしさで近くの魔術師（調合師など）をメロメロにします。\n魔術師からの取引価格が割引されるほか、時々おすそ分けとして魔法の素材やインクを足元に投げてくれます。",
+
+  "message.doggy_talents_magic.no_talent": "この犬はまだ魔法の才能（魔導の極意）を習得していません！",
+  "message.doggy_talents_magic.equipped_spellbook": "犬に魔導書を装備させました！",
+  "message.doggy_talents_magic.wizard_gift": "【%s は %s の可愛さにつられて、おすそ分けをしてくれた！】"
+}

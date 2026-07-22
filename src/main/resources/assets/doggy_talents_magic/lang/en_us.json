@@ -1,0 +1,14 @@
+{
+  "talent.doggy_talents_magic.spell_casting": "Spell Mastery",
+  "talent.doggy_talents_magic.spell_casting.description": "Equip your dog with a Spell Book (Right-click the dog while holding a Spell Book) to let them cast spells in battle.\nLv.2: Prioritizes injured allies to cast buffs and healing spells.\nLv.3: Kites back when enemies get within 7 blocks.\nHigher levels significantly reduce spell cooldowns.",
+
+  "talent.doggy_talents_magic.mana_aura": "Mana Fountain",
+  "talent.doggy_talents_magic.mana_aura.description": "Emits a mana-regenerating aura around the dog, constantly restoring mana for its owner and allies.\nHigher levels increase both the mana regeneration rate and aura range.",
+
+  "talent.doggy_talents_magic.wizard_charmer": "Charming Beggar",
+  "talent.doggy_talents_magic.wizard_charmer.description": "Uses the dog's adorable charm to captivate nearby merchant wizards.\nWizards will offer trade discounts and occasionally throw gifts like magic materials or inks towards the dog.",
+
+  "message.doggy_talents_magic.no_talent": "This dog hasn't learned the Spell Mastery talent yet!",
+  "message.doggy_talents_magic.equipped_spellbook": "Equipped the Spell Book to the dog!",
+  "message.doggy_talents_magic.wizard_gift": "【%s was captivated by %s's cuteness and shared a gift!】"
+}
